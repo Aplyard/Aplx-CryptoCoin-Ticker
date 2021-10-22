@@ -1,6 +1,6 @@
 # Aplx Cryptocoin Ticker
 
-### This is a Crypto Coin Ticker, featuring an ESP32 TTGO T-Display and a small LiPo battery fitted in a 3d printed case.   
+ This is a Crypto Coin Ticker, featuring an ESP32 TTGO T-Display and a small LiPo battery fitted in a 3d printed case.   
 
 
 ---
